@@ -1,3 +1,5 @@
+1. Create OPEN_AI_API_KEY in .env file before starting up.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
